@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hey I'm Kokob
 
-<!--
-**koki-star/Koki-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Quick Intro About Me
 
-Here are some ideas to get you started:
+ Aspiring Application Developer | Computer Science Student, turning coffee into code and chasing my Application Development degree. When I'm not debugging, you'll find me playing soccer or hitting piano keys (still learning 😅).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- JavaScript/TypeScript
+- HTML/CSS
+- Git
+- Linux
+- Learning AWS ☁️
+
+## 🎯 What I'm Up To
+
+- Building fun JS projects
+- Learning AWS
+- Playing with responsive web design
+- Recently started piano 🎹
+
+## Fun Facts
+
+- Ex-security guard turned coder
+- Soccer enthusiast ⚽
+- Newlywed ❤️
+
+### Thanks for stopping by:) Always up for collaboration or just a good tech chat
