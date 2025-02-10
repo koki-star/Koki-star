@@ -25,4 +25,4 @@
 - Soccer enthusiast ⚽
 - Newlywed ❤️
 
-### Thanks for stopping by:) Always up for collaboration or just a good tech chat
+### Thanks for stopping by :) Always up for collaboration or just a good tech chat
