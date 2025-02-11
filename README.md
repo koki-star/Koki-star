@@ -1,6 +1,6 @@
 # 👋 Hey I'm Kokob
 
-## 🚀 Quick Intro About Me
+## Quick Intro About Me
 
  Aspiring Application Developer | Computer Science Student, turning coffee into code and chasing my Application Development degree. When I'm not debugging, you'll find me playing soccer or hitting piano keys (still learning 😅).
 
@@ -19,4 +19,4 @@
 - Playing with responsive web design
 - Recently started piano 🎹
 
-### Thanks for stopping by :) Always up for collaboration or just a good tech chat
+### "Life never stops teaching, so I’ll never stop learning📚"
