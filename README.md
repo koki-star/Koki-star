@@ -19,10 +19,4 @@
 - Playing with responsive web design
 - Recently started piano 🎹
 
-## Fun Facts
-
-- Ex-security guard turned coder
-- Soccer enthusiast ⚽
-- Newlywed ❤️
-
 ### Thanks for stopping by :) Always up for collaboration or just a good tech chat
