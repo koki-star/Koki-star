@@ -1,22 +1,61 @@
-# 👋 Hey I'm Kokob
+# 👋 Hi, I'm Kokob
 
-## Quick Intro About Me
+Welcome to my GitHub profile!
 
- Aspiring Application Developer | Computer Science Student, turning coffee into code and chasing my Application Development degree. When I'm not debugging, you'll find me playing soccer or hitting piano keys (still learning 😅).
+I'm currently pursuing a bachelor's degree in Application Development and learning full stack web development through [The Odin Project](https://www.theodinproject.com/). I’m still early in my journey, but I’m focused on building real projects, learning by doing, and improving with every line of code.
 
-## 🛠️ Tech Stack
+---
 
-- JavaScript/TypeScript
-- HTML/CSS
-- Git
-- Linux
-- Learning AWS ☁️
+## 📌 A Bit About Me
 
-## 🎯 What I'm Up To
+- I enjoy learning through hands-on coding
+- I take time to understand core concepts, not just copy code
+- Currently working with: **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Git**, and **GitHub**
 
-- Building fun JS projects
-- Learning AWS
-- Playing with responsive web design
-- Recently started piano 🎹
+---
 
-### "Life never stops teaching, so I’ll never stop learning📚"
+## 💻 What I'm Doing Now
+
+- Building small projects to reinforce my learning
+- Using Git and GitHub to stay organized and track progress
+- Exploring tools like ChatGPT and GitHub Copilot to support my growth
+
+---
+
+## 🧰 Tools I Use
+
+- **Languages:** HTML, CSS, JavaScript  
+- **Frontend:** React (beginner), responsive design basics  
+- **Backend:** Node.js (learning)  
+- **Workflow:** Git, GitHub, VS Code, Markdown, GitHub Copilot
+
+---
+
+## 🎯 My Goals
+
+- Build consistently and avoid the tutorial loop
+- Learn by creating, not just consuming
+- Strengthen both frontend and backend skills
+
+---
+
+### 🙌 Shoutout & Reflection
+
+Big thanks to [The Odin Project](https://www.theodinproject.com/) the game-changer in my web dev journey. Unlike other tutorials, this one actually stuck.
+
+What I learned:
+- GitHub code hosting
+- Terminal navigation
+- Building real projects
+- Reading documentation (crucial skill!)
+
+Yes, I made mistakes, but that’s how real learning works. Each project challenged me and taught me something new.
+
+The Odin Project’s hands-on, project-based approach made all the difference. Tutorials are useful, but nothing beats actually building and applying what you learn.
+
+---
+
+Thanks for checking out my work — I’m here to learn and grow every day.  
+Feel free to follow along!
+
+> *"Learning is a journey, not a destination."*
