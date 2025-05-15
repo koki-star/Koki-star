@@ -2,60 +2,51 @@
 
 Welcome to my GitHub profile!
 
-I'm currently pursuing a bachelor's degree in Application Development and learning full stack web development through [The Odin Project](https://www.theodinproject.com/). I’m still early in my journey, but I’m focused on building real projects, learning by doing, and improving with every line of code.
+I'm currently pursuing a bachelor's degree in Application Development and learning full stack web development through [The Odin Project](https://www.theodinproject.com/). I’m early in my journey, but I’m focused on building real projects, learning by doing, and improving every day.
 
 ---
 
 ## 📌 A Bit About Me
 
-- I enjoy learning through hands-on coding
-- I take time to understand core concepts, not just copy code
-- Currently working with: **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Git**, and **GitHub**
+- I enjoy hands-on learning and digging into core concepts  
+- Currently working with: **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Git**, and **GitHub**  
+- Also learning **Python** with [30 Days of Python by Asabeneh Yetayeh](https://github.com/Asabeneh/30-Days-Of-Python)
 
 ---
 
 ## 💻 What I'm Doing Now
 
-- Building small projects to reinforce my learning
-- Using Git and GitHub to stay organized and track progress
-- Exploring tools like ChatGPT and GitHub Copilot to support my growth
+- Building small projects to practice and grow  
+- Using Git and GitHub to track my progress  
+- Exploring tools like ChatGPT and GitHub Copilot  
+- Writing Python regularly to sharpen my logic skills
 
 ---
 
 ## 🧰 Tools I Use
 
-- **Languages:** HTML, CSS, JavaScript  
-- **Frontend:** React (beginner), responsive design basics  
+- **Languages:** HTML, CSS, JavaScript, Python  
+- **Frontend:** React (beginner)  
 - **Backend:** Node.js (learning)  
-- **Workflow:** Git, GitHub, VS Code, Markdown, GitHub Copilot
+- **Workflow:** Git, GitHub, VS Code, Markdown
 
 ---
 
 ## 🎯 My Goals
 
-- Build consistently and avoid the tutorial loop
-- Learn by creating, not just consuming
-- Strengthen both frontend and backend skills
+- Build consistently and break the tutorial loop  
+- Learn by creating, not just watching  
+- Strengthen frontend, backend, and Python skills
 
 ---
 
-### 🙌 Shoutout & Reflection
+### 🙌 Reflection
 
-Big thanks to [The Odin Project](https://www.theodinproject.com/) the game-changer in my web dev journey. Unlike other tutorials, this one actually stuck.
-
-What I learned:
-- GitHub code hosting
-- Terminal navigation
-- Building real projects
-- Reading documentation (crucial skill!)
-
-Yes, I made mistakes, but that’s how real learning works. Each project challenged me and taught me something new.
-
-The Odin Project’s hands-on, project-based approach made all the difference. Tutorials are useful, but nothing beats actually building and applying what you learn.
+Big shoutout to [The Odin Project](https://www.theodinproject.com/) and [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) — both have helped me move beyond just watching and start building with confidence. Every mistake has been part of the learning process, and I’m better for it.
 
 ---
 
-Thanks for checking out my work — I’m here to learn and grow every day.  
-Feel free to follow along!
+Thanks for visiting - I’m here to learn and grow every day!  
+Feel free to follow along.
 
 > *"Learning is a journey, not a destination."*
