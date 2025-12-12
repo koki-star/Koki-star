@@ -1,52 +1,60 @@
-# 👋 Hi, I'm Kokob
+# Hi, I’m Kokob 👋
 
-Welcome to my GitHub profile!
+I’m a student pursuing a bachelor’s degree in Application Development, focused on building full-stack web development skills through hands-on projects and structured learning.
 
-I'm currently pursuing a bachelor's degree in Application Development and learning full stack web development through [The Odin Project](https://www.theodinproject.com/). I’m early in my journey, but I’m focused on building real projects, learning by doing, and improving every day.
+I’m learning through programs like **The Odin Project** and the **30 Days of Python** challenge, while building personal projects to apply what I learn in real scenarios.
 
----
+## 💻 Technical Skills
 
-## 📌 A Bit About Me
+### Languages
 
-- I enjoy hands-on learning and digging into core concepts  
-- Currently working with: **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Git**, and **GitHub**  
-- Also learning **Python** with [30 Days of Python by Asabeneh Yetayeh](https://github.com/Asabeneh/30-Days-Of-Python)
+- HTML
+- CSS
+- JavaScript
+- Python
+- SQL
 
----
+### Frameworks & Technologies
 
-## 💻 What I'm Doing Now
+- React (beginner)
+- Node.js (learning)
+- Django (learning)
 
-- Building small projects to practice and grow  
-- Using Git and GitHub to track my progress  
-- Exploring tools like ChatGPT and GitHub Copilot  
-- Writing Python regularly to sharpen my logic skills
+### Tools & Workflow
 
----
+- Git
+- GitHub
+- VS Code
+- Markdown
 
-## 🧰 Tools I Use
+## 📚 Learning & Practice
 
-- **Languages:** HTML, CSS, JavaScript, Python  
-- **Frontend:** React (beginner)  
-- **Backend:** Node.js (learning)  
-- **Workflow:** Git, GitHub, VS Code, Markdown
+- The Odin Project (full-stack web development)
+- 30 Days of Python (Python fundamentals and consistency)
+- Coursework and personal projects using Django and relational databases
+- Hands-on practice with SQL for querying and managing data
 
----
+## 🔧 What I’m Working On
 
-## 🎯 My Goals
+- Building practical projects to strengthen frontend, backend, and Python fundamentals
+- Developing backend features with Django and database-driven applications
+- Writing clean, readable code and improving debugging and problem-solving skills
+- Using Git and GitHub consistently to track progress and follow best practices
 
-- Build consistently and break the tutorial loop  
-- Learn by creating, not just watching  
-- Strengthen frontend, backend, and Python skills
+## 📌 What You’ll Find Here
 
----
+- Web development projects (frontend and backend)
+- Python practice and learning exercises
+- Django-based projects as I continue building backend skills
+- Ongoing improvements as I revisit and refine earlier work
 
-### 🙌 Reflection
+## 🎯 Goals
 
-Big shoutout to [The Odin Project](https://www.theodinproject.com/) and [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) — both have helped me move beyond just watching and start building with confidence. Every mistake has been part of the learning process, and I’m better for it.
+- Become confident building full-stack web applications
+- Strengthen backend development with Django and SQL
+- Learn by creating, not just following tutorials
+- Build a portfolio that reflects real progress and consistency
 
----
+I’m early in my journey, but I’m committed to improving every day through consistent, hands-on practice. I value steady growth, curiosity, and learning by doing.
 
-Thanks for visiting - I’m here to learn and grow every day!  
-Feel free to follow along.
-
-> *"Learning is a journey, not a destination."*
+Thanks for stopping by.
