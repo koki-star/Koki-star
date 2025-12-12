@@ -1,60 +1,44 @@
-# Hi, I’m Kokob 👋
+Hi, I’m Kokob 👋
 
-I’m a student pursuing a bachelor’s degree in Application Development, focused on building full-stack web development skills through hands-on projects and structured learning.
+I’m pursuing a bachelor’s degree in Application Development, focused on building full-stack web applications across both frontend and backend. I use GitHub to apply what I learn through hands-on projects and to track my progress as I grow my skills.
 
-I’m learning through programs like **The Odin Project** and the **30 Days of Python** challenge, while building personal projects to apply what I learn in real scenarios.
+I’m interested in building complete web applications, working on both user-facing interfaces and backend logic, and learning how different parts of an application work together.
 
 ## 💻 Technical Skills
 
-### Languages
+Languages  
+HTML  
+CSS  
+JavaScript  
+Python  
+SQL  
 
-- HTML
-- CSS
-- JavaScript
-- Python
-- SQL
+#### Frameworks and Technologies  
 
-### Frameworks & Technologies
+Django  
+React  
+Node.js  
 
-- React (beginner)
-- Node.js (learning)
-- Django (learning)
+#### Tools  
 
-### Tools & Workflow
-
-- Git
-- GitHub
-- VS Code
-- Markdown
-
-## 📚 Learning & Practice
-
-- The Odin Project (full-stack web development)
-- 30 Days of Python (Python fundamentals and consistency)
-- Coursework and personal projects using Django and relational databases
-- Hands-on practice with SQL for querying and managing data
+Git  
+GitHub  
+VS Code  
+Markdown  
 
 ## 🔧 What I’m Working On
 
-- Building practical projects to strengthen frontend, backend, and Python fundamentals
-- Developing backend features with Django and database-driven applications
-- Writing clean, readable code and improving debugging and problem-solving skills
-- Using Git and GitHub consistently to track progress and follow best practices
+I’m building full-stack projects that combine frontend development with backend functionality. My current focus is on strengthening my understanding of Django, relational databases, and SQL, while continuing to improve my frontend skills with HTML, CSS, and JavaScript.
+
+I also spend time improving code readability, debugging skills, and using Git and GitHub consistently as part of my workflow.
 
 ## 📌 What You’ll Find Here
 
-- Web development projects (frontend and backend)
-- Python practice and learning exercises
-- Django-based projects as I continue building backend skills
-- Ongoing improvements as I revisit and refine earlier work
+Frontend and full-stack web projects  
+Python and Django practice repositories  
+Projects that show steady improvement and practical learning  
 
-## 🎯 Goals
+I’m early in my journey, but I’m consistent, curious, and focused on learning by building complete applications.
 
-- Become confident building full-stack web applications
-- Strengthen backend development with Django and SQL
-- Learn by creating, not just following tutorials
-- Build a portfolio that reflects real progress and consistency
-
-I’m early in my journey, but I’m committed to improving every day through consistent, hands-on practice. I value steady growth, curiosity, and learning by doing.
 
 Thanks for stopping by.
