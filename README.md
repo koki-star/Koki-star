@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kokob</h1>
+<h1 align="center">Hi, I'm Kokob</h1>
 
 <h3 align="center">
 Bachelor’s student in Application Development focused on full-stack web development.
@@ -10,7 +10,7 @@ I’m pursuing a bachelor’s degree in Application Development, focused on buil
 
 I’m interested in building complete web applications, working on both user-facing interfaces and backend logic, and learning how different parts of an application work together.
 
-## 💻 Languages and Tools
+## Languages and Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
@@ -27,13 +27,13 @@ I’m interested in building complete web applications, working on both user-fac
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 
-## 🔧 What I’m Working On
+## What I’m Working On
 
 I’m building full-stack projects that combine frontend development with backend functionality. My current focus is on strengthening my understanding of Django, relational databases, and SQL, while continuing to improve my frontend skills with HTML, CSS, and JavaScript.
 
 I also spend time improving code readability, debugging skills, and using Git and GitHub consistently as part of my workflow.
 
-## 📌 What You’ll Find Here
+## What You’ll Find Here
 
 Frontend and full-stack web projects.  
 Python and Django practice repositories.  
