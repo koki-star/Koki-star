@@ -8,7 +8,11 @@ Bachelor’s student in Application Development focused on full-stack web develo
 
 I’m pursuing a bachelor’s degree in Application Development, focused on building full-stack web applications across both frontend and backend. I use GitHub to apply what I learn through hands-on projects and to document my progress as I build real applications.
 
+**Links:** [LinkedIn](https://linkedin.com/in/kokob-haile) | [StudyTracker project](https://github.com/koki-star/studytracker)
+
 I’m interested in building complete web applications, working on both user-facing interfaces and backend logic, and learning how different parts of an application work together.
+
+I'm based in Seattle, WA and currently looking for software engineering internships for Summer 2026.
 
 ## Languages and Tools
 
@@ -32,6 +36,8 @@ I’m interested in building complete web applications, working on both user-fac
 I’m building full-stack projects that combine frontend development with backend functionality. My current focus is on strengthening my understanding of Django, relational databases, and SQL, while continuing to improve my frontend skills with HTML, CSS, and JavaScript.
 
 I also spend time improving code readability, debugging skills, and using Git and GitHub consistently as part of my workflow.
+
+I recently completed AWS Academy training courses in Machine Learning Foundations and Machine Learning for Natural Language Processing through North Seattle College.
 
 ## What You’ll Find Here
 
