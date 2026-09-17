@@ -1,22 +1,29 @@
 # Hi, I'm Kokob
 
-I'm studying Application Development at North Seattle College, and I expect to graduate in 2027. My goal is full-stack application development. This profile includes college assignments, a college team project, and open-source contributions.
+Application Development BAS student at North Seattle College, graduating in 2027. I work mostly in JavaScript and TypeScript with React, and I am moving toward full-stack development. Based in Seattle.
 
-## Contributions
+## Open-source contribution
 
-**OpenEnergyDashboard:** Ongoing open-source contribution to development, testing, and documentation. This work began through CodeDay Labs.
+**OpenEnergyDashboard:** ongoing contribution to development, testing, and documentation. This work began through CodeDay Labs.
 
-**NSC Dev Expo Site:** College team project where I contributed four merged pull requests: reusable components, a student-preview layout, a contact section, and Storybook examples. [View the project](https://github.com/SeattleColleges/NSC-Dev-Expo-Site)
+## College team project
 
-## Selected college assignments
+**[NSC Dev Expo Site](https://github.com/SeattleColleges/NSC-Dev-Expo-Site):** a team repository owned by Seattle Colleges. I contributed four merged pull requests: reusable TypeScript components, a student-preview layout, a contact section, and Storybook examples.
 
-- [Weather App](https://github.com/koki-star/Weather_App): City search using geocoding and weather APIs, with loading and error states.
-- [Dog Query App](https://github.com/koki-star/dog-query-app): React and TanStack Query assignment for browsing dog-breed information and handling request states.
+## College assignments
 
-Tools used in this work: JavaScript, TypeScript, HTML, CSS, React, React Native components, Storybook, Git, GitHub
+Course projects I built on my own. Each README says what the project does and how to run it.
 
-## Opportunities
+- **[Weather App](https://github.com/koki-star/Weather_App):** city search that calls a geocoding API and a weather API, with loading and error states. HTML, CSS, JavaScript.
+- **[Dog Query App](https://github.com/koki-star/dog-query-app):** breed browsing and detail views with TanStack Query, including loading, empty, and error states. React, Vite.
+- **[Recipe Gallery](https://github.com/koki-star/recipe-gallery):** recipe cards rendered from an array, with a responsive card layout. React, Vite.
 
-I'm interested in software development internships and junior application developer roles in the Seattle area or remote roles.
+## Tools used in this work
+
+JavaScript, TypeScript, HTML, CSS, React, React Native components, Storybook, Git, GitHub
+
+## Open to
+
+Software development internships and junior application developer roles in the Seattle area or remote roles.
 
 [LinkedIn](https://www.linkedin.com/in/kokob-haile/)
